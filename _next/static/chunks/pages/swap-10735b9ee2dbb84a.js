@@ -1,0 +1,2 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[8503],{98229:function(n,u,t){(window.__NEXT_P=window.__NEXT_P||[]).push(["/swap",function(){return t(48466)}])},48466:function(n,u,t){"use strict";t.r(u);var _=t(85893),r=t(56668);u.default=function(){return(0,_.jsx)(r.Z,{})}}},function(n){n.O(0,[2077,1314,5855,5418,2785,4262,2387,3688,6668,9774,2888,179],(function(){return u=98229,n(n.s=u);var u}));var u=n.O();_N_E=u}]);
+//# sourceMappingURL=swap-10735b9ee2dbb84a.js.map
